@@ -1,2 +1,2 @@
-# theblockgame
-A Minecraft replica game.
+# The Block Game
+## A Minecraft replica game.
